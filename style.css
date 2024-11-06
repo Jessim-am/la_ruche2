@@ -95,6 +95,13 @@ width: 45%;
 }
 
 .width30{
-    width: 30%;
+    width: 25%;
 }
 
+section,footer{
+    padding-top: 42px;
+    padding-bottom: 42px;
+}
+.padding16{
+    padding: 16px;
+}
